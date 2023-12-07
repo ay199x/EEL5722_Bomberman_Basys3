@@ -1,0 +1,7 @@
+verilog xil_defaultlib  \
+"../../../../EEL5722_Bomberman.gen/sources_1/ip/block_map/sim/block_map.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

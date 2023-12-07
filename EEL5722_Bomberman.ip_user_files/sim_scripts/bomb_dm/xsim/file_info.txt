@@ -1,0 +1,2 @@
+bomb_dm.v,verilog,xil_defaultlib,../../../../EEL5722_Bomberman.gen/sources_1/ip/bomb_dm/sim/bomb_dm.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

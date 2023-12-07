@@ -1,0 +1,2 @@
+pillar_dm.v,verilog,xil_defaultlib,../../../../EEL5722_Bomberman.gen/sources_1/ip/pillar_dm_1/sim/pillar_dm.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
